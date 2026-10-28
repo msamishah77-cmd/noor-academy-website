@@ -73,7 +73,7 @@ const Course = () => {
             const message = encodeURIComponent(
               `Hi, I want to enroll in this course:\n\n*${title}*\nCourse Fee: ${fee}/month.`
             );
-            const whatsappLink = `https://wa.me/923003477736?text=${message}`;
+            const whatsappLink = `https://wa.me/923023233812?text=${message}`;
 
             return (
               <motion.div
@@ -181,7 +181,7 @@ const Course = () => {
             const message = encodeURIComponent(
               `Hi, I want to enroll in this course:\n\n*${title}*\nCourse Fee: ${fee}/month.`
             );
-            const whatsappLink = `https://wa.me/923003477736?text=${message}`;
+            const whatsappLink = `https://wa.me/923023233812?text=${message}`;
 
             return (
               <motion.div
