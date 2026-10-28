@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -22,3 +23,6 @@ If you are developing a production application, we recommend using TypeScript wi
    - `npm run dev`
 
 The admin panel is available at `/admin/login` from the frontend after starting the React app.
+=======
+# noor-academy-website
+>>>>>>> f64194b1979526bf57e51a97fa4748111d8b0508
