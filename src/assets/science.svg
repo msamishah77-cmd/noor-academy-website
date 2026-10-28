@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <rect width="200" height="200" fill="#e0fdf4"/>
+  <circle cx="70" cy="80" r="15" fill="none" stroke="#10b981" stroke-width="2"/>
+  <circle cx="100" cy="60" r="20" fill="none" stroke="#10b981" stroke-width="2"/>
+  <circle cx="130" cy="80" r="15" fill="none" stroke="#10b981" stroke-width="2"/>
+  <path d="M 70 95 L 100 120 L 130 95" fill="none" stroke="#10b981" stroke-width="2"/>
+  <text x="100" y="180" font-size="20" font-weight="bold" fill="#10b981" text-anchor="middle">Science</text>
+</svg>
