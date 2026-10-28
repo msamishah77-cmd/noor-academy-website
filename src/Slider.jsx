@@ -10,7 +10,7 @@ import sami from "./assets/wah.jpg"
 const testimonials = [
   {
     image: yasir,
-    name: "Jabir Hussain Janweri",
+    name: "Yasir",
     role: "Student",
     message:
       "Noor Academy helped me understand full-stack development deeply. I loved how interactive and real-world the projects were.",
